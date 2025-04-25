@@ -1,2 +1,2 @@
 # This script prints a simple message to the terminal
-echo "This is my first script"
+echo "This is my first Linux script"
